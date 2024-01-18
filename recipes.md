@@ -103,6 +103,7 @@ Ingredients:
 - 2 eggs
 - 2 tsp vanilla extract
 - 3 cups semisweet chocolate chips
+- 1 cup suger
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -114,3 +115,33 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+###Chocolate Stout Cake:
+
+1 (11.2 ounce) bottle stout beer (such as Guinness™ )
+
+1 tablespoon dark brown sugar
+
+1 3/4 cups all-purpose flour
+
+1 cup cocoa powder (such as Hershey's® Special Dark)
+
+1 teaspoon baking powder
+
+1 teaspoon baking soda
+
+3/4 teaspoon salt
+
+1/2 cup unsalted butter
+
+3 tablespoons vegetable oil
+
+1 cup dark brown sugar
+
+1/2 cup white sugar
+
+2 large eggs, at room temperature
+
+1 cup full-fat sour cream, at room temperature
+
+2 teaspoons vanilla extract
